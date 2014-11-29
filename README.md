@@ -1,4 +1,4 @@
-blog-rails
+rails-blog
 ==========
 
 My first Rails project
